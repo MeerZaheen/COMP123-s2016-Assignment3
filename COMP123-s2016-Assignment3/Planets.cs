@@ -171,9 +171,9 @@ namespace COMP123_s2016_Assignment3
         * @method ToString
         * returns {string}
         */
-        public override void ToString()
+        public override string ToString()
         {
-            throw new System.NotImplementedException();
+            return String.Format("Name of Planet is: {0}\nDiameter of Planet is: {1}\nMass of Planet is: {2}", this.Name, this.Diameter, this.Mass);
         }
 
     }
