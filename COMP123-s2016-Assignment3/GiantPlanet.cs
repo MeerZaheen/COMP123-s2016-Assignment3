@@ -60,5 +60,46 @@ namespace COMP123_s2016_Assignment3
         {
             this._type = type; 
         }
+
+        // PUBLIC METHODS ++++++++++++++++++++++++++++++++++++++++++++++++++
+
+        /** <summary>
+         * This public method HasMoon() returns true is the MoonCount property is greater than zero
+         * </summary>
+         *
+         * @method HasMoon
+         * @returns {bool}
+         */
+        public bool HasMoons()
+        {
+            if (MoonCount > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        /** <summary>
+         * This public method HasRings() returns true is the RingCount property is greater than zero
+         * </summary>
+         *
+         * @method RingCount
+         * @returns {bool}
+         */
+        public bool HasRings()
+        {
+            if (RingCount > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
     }
 }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
  * @StudentNumber: 300522487
  * @DateCreated: June, 19,2016
  * @Description: Build and implement Planet classes and Interfaces
- * Version #: 0.0.1.1
+ * Version #: 0.0.1.2
  */
 
 /**
@@ -20,6 +20,8 @@ using System.Threading.Tasks;
  * 3_ updated Planets class ToString Public Method
  * Date: June 19th, 2016
  * 4_ Completed 2: a, and b and revision
+ * Date: June 19th, 2016
+ * 5_ Completed 2: c, and revision
  * Date: June 19th, 2016
  */
 namespace COMP123_s2016_Assignment3
