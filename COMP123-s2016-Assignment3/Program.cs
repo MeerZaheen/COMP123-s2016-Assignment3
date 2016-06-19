@@ -19,6 +19,8 @@ using System.Threading.Tasks;
  * Date: June 19th, 2016
  * 3_ updated Planets class ToString Public Method
  * Date: June 19th, 2016
+ * 4_ Completed 2: a, and b and revision
+ * Date: June 19th, 2016
  */
 namespace COMP123_s2016_Assignment3
 {
