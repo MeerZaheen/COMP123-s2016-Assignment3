@@ -13,9 +13,9 @@ using System.Threading.Tasks;
 
 /**
  ********* REVISION *********
- * Initial Commit- Created Planet Diagram
+ * 1_ Initial Commit- Created Planet Diagram
  * Date: June 19th, 2016
- * Completed 1: a,b,c, and d and partial documentation
+ * 2_ Completed 1: a,b,c, and d and partial documentation
  * Date: June 19th, 2016
  */
 namespace COMP123_s2016_Assignment3
