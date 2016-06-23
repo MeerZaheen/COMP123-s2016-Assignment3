@@ -30,6 +30,25 @@ namespace COMP123_s2016_Assignment3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
+            
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("***************************************");
+            GiantPlanet giantPlanet = new GiantPlanet("The Death Star", 3000000000, 5000000000, "Dark Matter");
+            Console.WriteLine(giantPlanet.ToString());
+            Console.WriteLine("***************************************");
+            Console.WriteLine();
+            Console.WriteLine("---------------------------------------");
+            TerrestrialPlanet terrestrialPlanet = new TerrestrialPlanet("Pluto", 1000, 4000, true);
+            Console.WriteLine(terrestrialPlanet.ToString());
+            Console.WriteLine("---------------------------------------");
+            Console.WriteLine();
+            waitForAnyKey();
+        }
+        public static void waitForAnyKey()
+        {
+            Console.WriteLine("Press any key to continue");
+            Console.ReadKey();
         }
     }
 }

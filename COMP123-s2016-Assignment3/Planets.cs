@@ -159,7 +159,9 @@ namespace COMP123_s2016_Assignment3
         */
         public Planets(string name, double diameter, double mass)
         {
-            throw new System.NotImplementedException();
+            this._name = name;
+            this._diameter = diameter;
+            this._mass = mass;
         }
 
         // PUBLIC METHODS
@@ -173,7 +175,7 @@ namespace COMP123_s2016_Assignment3
         */
         public override string ToString()
         {
-            return String.Format("Name of Planet is: {0}\nDiameter of Planet is: {1}\nMass of Planet is: {2}", this.Name, this.Diameter, this.Mass);
+            return String.Format("* Name of Planet is: {0}\n* Diameter of Planet is: {1}\n* Mass of Planet is: {2}", this.Name, this.Diameter, this.Mass);
         }
 
     }

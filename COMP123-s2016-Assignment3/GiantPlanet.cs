@@ -21,7 +21,7 @@ namespace COMP123_s2016_Assignment3
 
         private string _type;
 
-        // PUBLIC PROPERTIES
+        // PUBLIC PROPERTIES +++++++++++++++++++++++++++++++++++++++++++++++
 
         /**<summary>
         * This is a property for our _type field.
