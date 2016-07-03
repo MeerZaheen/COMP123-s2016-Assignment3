@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 /**
  * @Author: Meer Zaheen Nazmul
  * @StudentNumber: 300522487
- * @DateCreated: June, 19,2016
+ * @DateCreated: July 3rd, 2016
  * @Description: Build and implement Planet classes and Interfaces
  * Version #: 0.0.1.2
  */
@@ -22,6 +22,8 @@ using System.Threading.Tasks;
  * 4_ Completed 2: a, and b and revision
  * Date: June 19th, 2016
  * 5_ Completed 2: c, and revision
+ * Date: June 19th, 2016
+ * 6_Final Revision
  * Date: June 19th, 2016
  */
 namespace COMP123_s2016_Assignment3
